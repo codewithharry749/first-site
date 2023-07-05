@@ -1,0 +1,141 @@
+.active {
+    color: #08d5e8;
+}
+
+li {
+    list-style: none;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+
+    color: black;
+}
+
+.logo {
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing: 1px;
+    font-weight: bold;
+    color: red;
+
+}
+
+.fa-grav {
+    font-size: 30px;
+    margin-left: 3.5rem;
+    color: rgb(77, 77, 236);
+}
+
+.fa-grav:hover {
+    color: green;
+    transition: all 0s linear;
+}
+
+.menu_bar {
+    margin-left: 45%;
+    margin-top: 1rem;
+}
+
+li {
+    margin-left: 3rem;
+}
+
+img {
+    border: none;
+    border-radius: 1rem;
+    margin-top: 3rem;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.col-5 {
+    margin-top: 5rem;
+}
+
+.card-title {
+    color: green;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.card-text {
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+#servise_head {
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url('https://media.istockphoto.com/id/1059510610/vector/it-communication-e-learning-internet-network-as-knowledge-base.jpg?s=612x612&w=0&k=20&c=QEyHx6JnZleLmW9lYgpzvLv765rizr__5zwwKylo300=');
+    color: black;
+    letter-spacing: 1px;
+}
+
+#Contact_box {
+    width: 100%;
+    height: 89vh;
+    background-image: url('https://cdn.dribbble.com/users/469578/screenshots/3571026/conversation.gif');
+    background-repeat: repeat-x;
+    object-fit: cover;
+
+}
+
+.fa-phone {
+    font-size: 2rem;
+    color: black;
+    margin-left: .5rem;
+}
+
+.contact_center {
+    margin-left: 38%;
+    letter-spacing: 1px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: red;
+    letter-spacing: 5px;
+}
+
+.number {
+    font-size: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+i {
+    cursor: pointer;
+    font-size: 30px;
+    text-align: center;
+    color: black;
+}
+
+i:hover {
+    transition: all .5s linear;
+    color: yellow;
+}
+
+.fa-instagram {
+    color: red;
+}
+
+.fa-facebook {
+    color: blue;
+}
+
+.fa-youtube-play {
+    color: red;
+}
+
+.fa-twitter {
+    color: rgb(15, 109, 186);
+}
+
+.fa-telegram {
+    color: #066770;
+}
